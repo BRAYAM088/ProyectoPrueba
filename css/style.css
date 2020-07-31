@@ -1,0 +1,19 @@
+.tituloPrincipal{
+    text-align: center;
+}
+
+.fondoGrind{
+    background-color: darkgray;
+}
+
+.colorMenu{
+    background-color: rgb(68, 68, 68);
+}
+
+.fixed-top2 {
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    z-index: 1030;
+}
